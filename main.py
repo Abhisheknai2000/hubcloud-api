@@ -23,3 +23,4 @@ def generate(data: Input):
         "generator_url": generator_url,
         "pixeldrain_link": pixeldrain_link
     }
+
